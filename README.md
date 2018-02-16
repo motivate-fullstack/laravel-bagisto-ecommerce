@@ -36,10 +36,6 @@
     <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/cn.svg" alt="Chinese" width="24" height="24">
 </p>
 
-<a href="https://www.youtube.com/watch?v=OHbte7hdxYU">
-    <img class="flag-img" src="https://raw.githubusercontent.com/bagisto/temp-media/master/bagisto-featured.png" alt="Chinese" width="100%">
-</a>
-
 # Introduction
 
 Bagisto is an opensource [laravel eCommerce](https://www.bagisto.com/) framework built on some of the hottest technologies such as [Laravel](https://laravel.com/) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org/) a progressive Javascript framework.
@@ -76,7 +72,7 @@ Develop and deploy your next headless commerce storefronts with Next JS and Bagi
 
 # AI Powered eCommerce
 
-You can integrate popular large language models like GPT, BERT, Llama etc. to build [AI-powered eCommerce](https://bagisto.com/en/extensions/laravel-chatbot-using-openai-chatgpt-llm/) applications with bagisto. Some of the popular use cases where you can make use of LLMs to build AI apps are chatbots, automated product descriptions, customer support, search and recommendations. 
+You can integrate popular large language models like GPT, BERT, Llama etc. to build [AI-powered eCommerce](https://bagisto.com/en/extensions/laravel-chatbot-using-openai-chatgpt-llm/) applications with bagisto. Some of the popular use cases where you can make use of LLMs to build AI apps are chatbots, automated product descriptions, customer support, search and recommendations.
 
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/ai_powered_ecommerce.png)
 
@@ -108,26 +104,12 @@ Get Bagisto support on [Facebook Group](https://www.facebook.com/groups/bagisto)
 Would like to help us build the most developer-friendly E-Commerce platform? Start by reading our [Contributing Guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md)!
 
 # License
+
 Bagisto is a truly open-source laravel eCommerce framework that will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
 
 # Security Vulnerabilities
+
 If you think that you have found a security issue in Bagisto, please do not use the issue tracker and do not post it publicly. Instead, all security issues must be sent to [mailto:support@bagisto.com](mailto:support@bagisto.com).
-
-# Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/bagisto#contributors" target="_blank"><img src="https://opencollective.com/bagisto/backers.svg?width=890"></a>
-
-# Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<div>
-    <a href="https://opencollective.com/bagisto/contribute/sponsor-7372/checkout" target="_blank">
-        <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
-    </a>
-</div>
 
 <kbd>
     <a href="http://e.ventures/" target="_blank">

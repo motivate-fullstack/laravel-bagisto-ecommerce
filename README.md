@@ -90,12 +90,6 @@ Build [decentralised applications](https://bagisto.com/en/services/blockchain-co
 
 With Bagisto, you can easily create use cases for various commerce needs like Marketplaces, PWA, Native Mobile Apps, Multi-Tenants systems, Blockchain and many more.
 
-# Built In Extensions
-
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/built_in_extension.png)
-
-Make use of 100+ Bagisto pre-built extensions from [Bagisto Extension Markeptlace](https://bagisto.com/en/extensions/)
-
 # Community
 
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/community.png)

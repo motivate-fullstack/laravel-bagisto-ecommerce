@@ -108,3 +108,4 @@ If you think that you have found a security issue in Bagisto, please do not use 
         <img src="https://images.opencollective.com/e-ventures1/7d61db2/logo.png" height="75">
     </a>
 </kbd>
+

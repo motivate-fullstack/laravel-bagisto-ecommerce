@@ -1,5 +1,5 @@
 {
-    "name": "bagisto/bagisto",
+    "name": "laravel-bagisto-ecommerce/ecommerce",
     "type": "project",
     "description": "Bagisto Laravel E-Commerce",
     "keywords": [
